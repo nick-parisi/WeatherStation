@@ -1,0 +1,1 @@
+Simple program emulating the functionality of a weather station. Uses observer pattern to notify display frames about changed information. Also allows custom styling of the display frames. Demonstrates OOP principles such as factory pattern and observer pattern.
